@@ -1,0 +1,172 @@
+body { margin: 0; padding: 0; background-color: black}
+
+
+.cover { background-size: cover; background-repeat: no-repeat;; background-position: center top}
+
+a { color: gainsboro}
+a:link{text-decoration: none;}
+a:hover {color: #929292}
+
+.html {
+    scroll-behavior: smooth }
+
+
+
+
+.homebar {margin:15px;
+    font-size: 20px;
+    font-family: Arial;
+    background-color: black}
+
+.hokie {font-size: 60px; text-align: center; font-family: Arial; color: gainsboro  ; }
+
+
+.sorry 
+      { float: left; padding: 20px; font-size: 40px;}
+
+
+
+.icon {width: 37px; padding: 15px}
+.icon1 {width: 39px; padding: 15px}
+.link {padding: 10px; float: right}
+
+
+
+.homesec1 {
+    height: 820px;
+        background-image: url(Best%20Cover%20Mine%20B&W.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+
+
+
+.text  { 
+    font-size: 27px; 
+    color: gainsboro; 
+    font-family: Arial;
+    text-align: center;}
+
+
+.homepagetitle {
+    font-size: 60px;
+    text-align: center; 
+    font-family: Arial;}
+.homepagetitle2 {
+    font-size: 45px;
+    text-align: center; 
+    font-family: Arial;margin-top: 90px; margin-bottom: 60px}
+
+
+
+
+.p-content { text-align: center; padding: 20px; margin-top: 60px; }
+.p-content-2 { text-align: center; padding: 20px; margin-top: -30px; margin-bottom: 90px }
+.homeport { width: 600px;margin: 20px; text-align: center}
+.homeport-2 { width: 399px;margin: 20px; text-align: center}
+
+
+
+
+.vdo {  
+    font-size: 22px; 
+    color: gainsboro; 
+    font-family: Arial;
+    text-align: center; margin-bottom: 90px;
+}
+.video {width: 80%; height: 500px; margin-bottom: 60px}
+
+
+
+
+
+.o2 {
+    font-size: 45px; margin-top: 90px;
+    font-family: Arial;}
+
+
+
+
+
+.Design {
+    background-color: transparent;
+    border: 10px; text-align: left ;font-size: 20px; font-family: Arial; margin: -20px 20px -20px 130px }
+
+.Design4 {
+    background-color: transparent;
+    border: 10px; text-align: left ;font-size: 20px; font-family: Arial; margin: -20px 0px -20px 130px }
+
+.Design5 {
+    background-color: transparent;
+    border: 10px; text-align: left ;font-size: 20px; font-family: Arial; margin: -20px 25px -20px 130px }
+
+.Design6 {
+    background-color: transparent;
+    border: 10px; text-align: left ;font-size: 20px; font-family: Arial; margin: -20px 40px -20px 130px }
+
+
+
+
+
+.spacebackground {
+    height: 600px;
+        background-image: url(2y-01.png);
+        background-repeat: no-repeat;
+        background-position: center; background-attachment: fixed}
+
+
+.bio2 {align-content: center;
+    display: block;
+    max-width: 400px;
+    background-color: black;
+    margin: 0 auto 1em;
+    height: 1200px;
+    position: relative;
+    border-right: .2em;
+    transform: preserve-3d;}
+
+section {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.word {
+align-content: center;
+    display: block;
+    max-width: 400px;
+    background-color: black;
+    margin: 0 auto 1em;
+    margin-bottom: 50px;
+    position: relative;
+    border-right: .2em;
+    transform: preserve-3d;;}
+
+.pfoto {
+    width: 100%; height: auto; z-index: 1}
+.pfoto2 {
+    text-align: center; padding: 20px; }
