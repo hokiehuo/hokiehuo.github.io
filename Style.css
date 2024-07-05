@@ -13,27 +13,16 @@ a:hover {color: #929292}
 
 
 
-.homebar {margin:15px;
-    font-size: 20px;
-    font-family: Arial;
-    background-color: black}
-
-.hokie {font-size: 60px; text-align: center; font-family: Arial; color: gainsboro  ; }
-
-
-.sorry 
-      { float: left; padding: 20px; font-size: 40px;}
+.homebar {background-color: black}
+.hokie {font-size: 60px; text-align: center; font-family:cursive; color: gainsboro; }
+.sorry { float: left; padding: 20px;margin-left: 52px; font-size: 40px; ; font-family:cursive}
+.sorry2 {margin-right: 30px}
+.sorry3 {float: right; padding: 20px;margin-right: 52px; font-size: 40px; ; font-family:cursive}
+.link {float: right; padding:20px;margin-right: 22px; font-size: 40px; ; font-family:cursive;}
 
 
-
-.icon {width: 37px; padding: 15px}
-.icon1 {width: 39px; padding: 15px}
-.link {padding: 10px; float: right}
-
-
-
-.homesec1 {
-    height: 620px;
+.homebg1 {
+    height: 500px;
         background-image: url(Best%20Cover%20Mine%20B&W.jpg);
     background-size: cover;
         background-repeat: no-repeat;
@@ -43,41 +32,35 @@ a:hover {color: #929292}
 
 
 
-.text  { 
-    font-size: 27px; 
-    color: gainsboro; 
-    font-family: Arial;
+.text  {font-size:27px;
+    color: gainsboro; ;
+    font-family: inherit;
     text-align: center;}
 
 
-.homepagetitle {
-    font-size: 60px;
-    text-align: center; 
-    font-family: Arial;}
-.homepagetitle2 {
-    font-size: 45px;
-    text-align: center; 
-    font-family: Arial;margin-top: 90px; margin-bottom: 60px}
-
-
-
-
+.p-wide {width: 90%; margin: 20px;height: auto; z-index: 1}
+.p-half {width: 43%; margin: 20px;height: auto; z-index: 1}
 .p-content { text-align: center; padding: 20px; margin-top: 60px; }
-.p-content-2 { text-align: center; padding: 20px; margin-top: -30px; margin-bottom: 90px }
 .homecategory { width: 400px;margin: 20px; text-align: center}
-.homecategory-wide {
-    width: 90%; height: auto; z-index: 1; margin: 30px}
 
 
+.exlogo {width: 90%}
 
 
-.vdo {  
-    font-size: 22px; 
-    color: gainsboro; 
-    font-family: Arial;
-    text-align: center; margin-bottom: 90px;
-}
+.vdo {text-align: center; margin-bottom: 90px;}
 .video {width: 80%; height: 500px; margin-bottom: 60px}
+
+
+
+.bio {align-content: center;
+    display: block;
+    max-width: 600px;
+    background-color: black;
+    margin: 0 auto 1em;
+    height: 700px;
+    position: relative;
+    border-right: .2em;
+    transform: preserve-3d;}
 
 
 
@@ -118,17 +101,7 @@ a:hover {color: #929292}
         background-position: center; background-attachment: fixed}
 
 
-.bio2 {align-content: center;
-    display: block;
-    max-width: 400px;
-    background-color: black;
-    margin: 0 auto 1em;
-    height: 1200px;
-    position: relative;
-    border-right: .2em;
-    transform: preserve-3d;}
 
-section {}
 
 
 
@@ -167,7 +140,6 @@ align-content: center;
     border-right: .2em;
     transform: preserve-3d;;}
 
-.pfoto {
-    width: 100%; height: auto; z-index: 1}
+
 .pfoto2 {
     text-align: center; padding: 20px; }
