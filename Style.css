@@ -1,4 +1,4 @@
-body { margin: 0; padding: 0; background-color: black; background-image: url(-grain-.jpg);}
+body { margin: 0; padding: 0; background-color: black; background-image: url(-grain-.jpg)}
 
 
 .cover { background-size: cover; background-repeat: no-repeat;; background-position: center top}
@@ -12,12 +12,10 @@ a:hover {color: #929292}
 
 
 
-
-
 .hokie {font-size: 60px; text-align: center; font-family:cursive; color: gainsboro; }
 .sorry { float: left; padding: 20px;margin-left: 52px; font-size: 40px; ; font-family:cursive}
 .sorry2 {margin-right: 30px}
-.sorry3 {float: right; padding: 20px;margin-right: 52px; font-size: 40px; ; font-family:cursive}
+.sorry3 {height: 150px; padding: 40px;font-size: 40px; ; font-family:cursive}
 .link {float: right; padding:20px;margin-right: 22px; font-size: 40px; ; font-family:cursive;}
 
 
@@ -38,13 +36,13 @@ a:hover {color: #929292}
     text-align: center;}
 
 
-.p-content { text-align: center; padding: 20px; margin-top: 60px; }
+.p-content { text-align: center; padding: 20px; margin-top: 60px;;align-content: center; }
 .homecategory { width: 400px;margin: 20px; text-align: center}
 
 
 
-.vdo {text-align: center; margin-bottom: 90px;}
-.video {width: 80%; height: 500px; margin-bottom: 60px}
+.vdo {text-align: center; margin-bottom: 30px;}
+.video {width: 70%; height: 500px; margin-bottom: 60px}
 
 
 
@@ -52,13 +50,13 @@ a:hover {color: #929292}
     display: block;
     max-width: 600px;
     margin: 0 auto 1em;
-    height: 600px;
+    height: 960px;
     position: relative;
     border-right: .2em;
     transform: preserve-3d}
 
 .biobg {font-size:27px;
-    color: white; ;
+    color: gainsboro; ;
     font-family: inherit;
     text-align: center;;
 background-image: url(moon.png);background-repeat: no-repeat;
@@ -71,47 +69,3 @@ background-image: url(moon.png);background-repeat: no-repeat;
         background-image: url(2y-01.png);
         background-repeat: no-repeat;
         background-position: center; background-attachment: fixed}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.word {
-align-content: center;
-    display: block;
-    max-width: 400px;
-    background-color: black;
-    margin: 0 auto 1em;
-    margin-bottom: 50px;
-    position: relative;
-    border-right: .2em;
-    transform: preserve-3d;;}
-
-
-.pfoto2 {
-    text-align: center; padding: 20px; }
