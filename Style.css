@@ -1,4 +1,4 @@
-body { margin: 0; padding: 0; background-color: black}
+body { margin: 0; padding: 0; background-color: black; background-image: url(-grain-.jpg);}
 
 
 .cover { background-size: cover; background-repeat: no-repeat;; background-position: center top}
@@ -13,7 +13,7 @@ a:hover {color: #929292}
 
 
 
-.homebar {background-color: black}
+
 .hokie {font-size: 60px; text-align: center; font-family:cursive; color: gainsboro; }
 .sorry { float: left; padding: 20px;margin-left: 52px; font-size: 40px; ; font-family:cursive}
 .sorry2 {margin-right: 30px}
@@ -23,7 +23,7 @@ a:hover {color: #929292}
 
 .homebg1 {
     height: 500px;
-        background-image: url(Best%20Cover%20Mine%20B&W.jpg);
+        background-image: url(-me-.png);
     background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -38,13 +38,9 @@ a:hover {color: #929292}
     text-align: center;}
 
 
-.p-wide {width: 90%; margin: 20px;height: auto; z-index: 1}
-.p-half {width: 43%; margin: 20px;height: auto; z-index: 1}
 .p-content { text-align: center; padding: 20px; margin-top: 60px; }
 .homecategory { width: 400px;margin: 20px; text-align: center}
 
-
-.exlogo {width: 90%}
 
 
 .vdo {text-align: center; margin-bottom: 90px;}
@@ -55,44 +51,20 @@ a:hover {color: #929292}
 .bio {align-content: center;
     display: block;
     max-width: 600px;
-    background-color: black;
     margin: 0 auto 1em;
-    height: 700px;
+    height: 600px;
     position: relative;
     border-right: .2em;
-    transform: preserve-3d;}
+    transform: preserve-3d}
 
+.biobg {font-size:27px;
+    color: white; ;
+    font-family: inherit;
+    text-align: center;;
+background-image: url(moon.png);background-repeat: no-repeat;
+        background-position: center; background-attachment: fixed}
 
-
-
-
-.o2 {
-    font-size: 45px; margin-top: 90px;
-    font-family: Arial;}
-
-
-
-
-
-.Design {
-    background-color: transparent;
-    border: 10px; text-align: left ;font-size: 20px; font-family: Arial; margin: -20px 20px -20px 130px }
-
-.Design4 {
-    background-color: transparent;
-    border: 10px; text-align: left ;font-size: 20px; font-family: Arial; margin: -20px 0px -20px 130px }
-
-.Design5 {
-    background-color: transparent;
-    border: 10px; text-align: left ;font-size: 20px; font-family: Arial; margin: -20px 25px -20px 130px }
-
-.Design6 {
-    background-color: transparent;
-    border: 10px; text-align: left ;font-size: 20px; font-family: Arial; margin: -20px 40px -20px 130px }
-
-
-
-
+.anchor { text-align: center ; width: 90px;margin: 20px;}
 
 .spacebackground {
     height: 600px;
