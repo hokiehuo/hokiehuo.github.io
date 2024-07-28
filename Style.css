@@ -20,7 +20,7 @@ a:hover {color: #929292}
 
 
 .homebg1 {
-    height: 500px;
+    height: 900px;
         background-image: url(-me-.png);
     background-size: cover;
         background-repeat: no-repeat;
@@ -36,7 +36,7 @@ a:hover {color: #929292}
     text-align: center;}
 
 
-.p-content { text-align: center; padding: 20px; margin-top: 60px;;align-content: center; }
+.p-content { text-align: center; padding: 20px; align-content: center; }
 .homecategory { width: 400px;margin: 20px; text-align: center}
 
 
@@ -65,7 +65,7 @@ background-image: url(moon.png);background-repeat: no-repeat;
 .anchor { text-align: center ; width: 90px;margin: 20px;}
 
 .spacebackground {
-    height: 600px;
-        background-image: url(2y-01.png);
+    height: 700px;
+        background-image: url(2y.jpg);
         background-repeat: no-repeat;
         background-position: center; background-attachment: fixed}
