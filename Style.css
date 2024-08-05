@@ -20,7 +20,7 @@ a:hover {color: #929292}
 
 
 .homebg1 {
-    height: 450px;
+    height: 530px;
         background-image: url(-me-.png);
     background-size: cover;
         background-repeat: no-repeat;
@@ -42,7 +42,7 @@ a:hover {color: #929292}
 
 
 .vdo {text-align: center; margin-bottom: 30px;}
-.video {width: 70%; height: 500px; margin-bottom: 60px}
+.video {width: 70%; height: 900px; margin-bottom: 60px}
 
 
 
