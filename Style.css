@@ -10,13 +10,18 @@ a:hover {color: #929292}
 .html {
     scroll-behavior: smooth }
 
+.special-elite-regular {
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
 
-.hokie {font-size: 60px; text-align: center; font-family:cursive; color: gainsboro; }
-.sorry { float: left; padding: 20px;margin-left: 52px; font-size: 40px; ; font-family:cursive}
-.sorry2 {margin-right: 30px}
-.sorry3 {padding: 40px;font-size: 40px; ; font-family:cursive}
-.link {float: right; padding:20px;margin-right: 22px; font-size: 40px; ; font-family:cursive;}
+.hokie {font-size: 60px; text-align: center; font-family: "Special Elite"; color: gainsboro; }
+.sorry { float: left; padding: 20px;margin-left: 52px; font-size: 3rem; ; font-family: "Special Elite"}
+.sorry2 {margin-right: 30px;}
+.sorry3 {padding: 40px;font-size: 3rem; ; font-family: "Special Elite" }
+.link {float: right; padding:20px;margin-right: 22px; font-size: 3rem; ; font-family: "Special Elite";}
 
 
 .homebg1 {
@@ -53,11 +58,10 @@ a:hover {color: #929292}
     height: 960px;
     position: relative;
     border-right: .2em;
-    transform: preserve-3d}
+    transform: preserve-3d;
+    font-family: "Special Elite"; font-size: 1.3rem }
 
-.biobg {font-size:27px;
-    color: gainsboro; ;
-    font-family: inherit;
+.biobg { color: gainsboro;
     text-align: center;;
 background-image: url(moon.png);background-repeat: no-repeat;
         background-position: center; background-attachment: fixed}
