@@ -20,7 +20,6 @@ a:hover {color: #929292}
 .hokie {font-size: 60px; text-align: center; font-family: "Special Elite"; color: gainsboro; }
 .sorry { float: left; padding: 20px;margin-left: 52px; font-size: 3rem; ; font-family: "Special Elite"}
 .sorry2 {margin-right: 30px;}
-.sorry3 {padding: 40px;font-size: 3rem; ; font-family: "Special Elite" }
 .link {float: right; padding:20px;margin-right: 22px; font-size: 3rem; ; font-family: "Special Elite";}
 
 
@@ -46,11 +45,6 @@ a:hover {color: #929292}
 
 
 
-.vdo {text-align: center; margin-bottom: 30px;}
-.video {width: 80%; height: 800px; margin-bottom: 60px}
-
-
-
 .bio {align-content: center;
     display: block;
     max-width: 600px;
@@ -71,5 +65,14 @@ background-image: url(moon.png);background-repeat: no-repeat;
 .spacebackground {
     height: 700px;
         background-image: url(2y.jpg);
+              background-size: cover;
         background-repeat: no-repeat;
-        background-position: center; background-attachment: fixed}
+        background-position: center; 
+        text-align: center;}
+
+
+.vdo {text-align: center; margin-bottom: 30px;}
+.video {width: 80%; height: 800px; margin-bottom: 60px}
+
+
+.sorry3 {padding: 40px;font-size: 3rem; ; font-family: "Special Elite" }
