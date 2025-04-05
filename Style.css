@@ -34,7 +34,7 @@ a:hover {color: #929292}
 
 
 
-.text  {font-size:27px;
+.text  {
     color: gainsboro; ;
     font-family: inherit;
     text-align: center;}
@@ -47,13 +47,13 @@ a:hover {color: #929292}
 
 .bio {align-content: center;
     display: block;
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto 1em;
-    height: 960px;
+    height: 990px;
     position: relative;
     border-right: .2em;
     transform: preserve-3d;
-    font-family: "Special Elite"; font-size: 1.3rem }
+    font-family: "Special Elite"; font-size: 1.6rem }
 
 .biobg { color: gainsboro;
     text-align: center;;
@@ -73,4 +73,5 @@ background-image: url(moon.png);background-repeat: no-repeat;
 .video {width: 80%; height: 800px; margin-bottom: 60px}
 
 
-.sorry3 {padding: 40px;font-size: 1.8rem; ; font-family: "Special Elite" }
+
+.sorry3 {padding: 40px;font-size: 2rem; ; font-family: "Special Elite" }
